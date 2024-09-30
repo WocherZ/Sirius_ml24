@@ -16,6 +16,6 @@
 
 - telegram_bot.py и retrieval_qa.py: код для запуска телеграм бота с решением
 
+- demo.mp4: видео-демо работы телеграм бота с QA системой
 
-## Видео демо
-<video src="demo.mp4" width="320" height="240" controls></video>
+
